@@ -3,7 +3,7 @@ import time
 import math
 import hashlib
 
-# too lazy to improve.
+# too lazy to improve and rename variables from p.js lol.
 
 def make_id() -> str:
     _0x5054b6 = ""
