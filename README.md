@@ -5,7 +5,7 @@ Contact (If you're intrested in purchasing full reverse)
 
 Discord: @poft
 
-Telegram: @Pr0t0nBest
+Telegram: @Pr0t0n_Best
 
 Partial Kasada Reverse (python)
 
