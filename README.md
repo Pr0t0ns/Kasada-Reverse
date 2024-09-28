@@ -1,11 +1,9 @@
 # Kasada-Reverse 
 
 
-Contact (If you're intrested in purchasing full reverse)
+Contact (If you're intrested in purchasing full reverse/solution [X-KPSDK-CT, X-KPSDK-CD, X-KPSDK-V, X-KPSDK-ST])
 
-Discord: @poft
-
-Telegram: @Pr0t0ngoat
+Telegram: @Pr0t0ngoated (https://t.me/pr0t0ngoated)
 
 Partial Kasada Reverse (python)
 
