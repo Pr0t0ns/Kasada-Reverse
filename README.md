@@ -3,7 +3,7 @@
 
 Contact (If you're intrested in purchasing full reverse/solution [X-KPSDK-CT, X-KPSDK-CD, X-KPSDK-V, X-KPSDK-ST])
 
-Telegram: @Pr0t0ngoated (https://t.me/pr0t0ngoated)
+Telegram: @cornflakes (https://t.me/cornflakes)
 
 Partial Kasada Reverse (python)
 
