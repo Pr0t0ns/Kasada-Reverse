@@ -1,7 +1,7 @@
 # Kasada-Reverse 
 
 
-Contact (If you're intrested in purchasing full reverse/solution [X-KPSDK-CT, X-KPSDK-CD, X-KPSDK-V, X-KPSDK-ST])
+Contact (If you're intrested in purchasing full reverse/solution [X-KPSDK-CT, X-KPSDK-CD, X-KPSDK-ST])
 
 Telegram: @pr0t0ngo (https://t.me/pr0t0ngo)
 
