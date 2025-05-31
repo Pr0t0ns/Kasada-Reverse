@@ -1,7 +1,7 @@
 # Kasada-Reverse 
 
 
-For inquiries regarding the purchase of my complete Kasada Solution (X-kpsdk-ct, X-kpsdk-cd, X-kpsdk-v) please reach out via Telegram. Contact details are provided below.
+For inquiries regarding the purchase of my complete Kasada Solution please feel free to reach out via Telegram. Contact details are provided below.
 
 Telegram: @autographed (https://t.me/autographed)
 
