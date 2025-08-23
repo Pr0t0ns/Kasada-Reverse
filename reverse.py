@@ -53,5 +53,6 @@ def solve() -> dict:
         'rst': rst
     }).replace("'", '"').replace(", ", ",").replace(": ", ":")
 
-input(solve())
+print(solve())
+input()
 
