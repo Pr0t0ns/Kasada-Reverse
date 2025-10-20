@@ -3,6 +3,8 @@
 
 For inquiries regarding the purchase of my complete Kasada Solution please feel free to reach out via Telegram. Contact details are provided below.
 
+https://silentsolve.xyz/
+
 Telegram: @autographed (https://t.me/autographed)
 
 Partial Kasada Reverse (python)
