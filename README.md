@@ -1,5 +1,5 @@
 # Kasada-Reverse 
-# Pay-per use PerimeterX service is coming soon to https://silentsolve.xyz #
+# Pay-per use Kasada service is now avaliable at https://silentsolve.xyz #
 
 For inquiries regarding the purchase of my complete Kasada Solution please feel free to reach out via Telegram. Contact details are provided below.
 
